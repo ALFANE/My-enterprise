@@ -1,0 +1,53 @@
+D:\эвген\Научная конференция\Прога\diplom\obj\Debug\diplom.csprojAssemblyReference.cache
+D:\эвген\Научная конференция\Прога\diplom\obj\Debug\diplom.Form1.resources
+D:\эвген\Научная конференция\Прога\diplom\obj\Debug\diplom.Form2.resources
+D:\эвген\Научная конференция\Прога\diplom\obj\Debug\diplom.Properties.Resources.resources
+D:\эвген\Научная конференция\Прога\diplom\obj\Debug\diplom.csproj.GenerateResource.cache
+D:\эвген\Научная конференция\Прога\diplom\obj\Debug\diplom.csproj.CoreCompileInputs.cache
+D:\эвген\Научная конференция\Прога\diplom\bin\Debug\diplom.exe.config
+D:\эвген\Научная конференция\Прога\diplom\bin\Debug\diplom.exe
+D:\эвген\Научная конференция\Прога\diplom\bin\Debug\diplom.pdb
+D:\эвген\Научная конференция\Прога\diplom\obj\Debug\diplom.exe
+D:\эвген\Научная конференция\Прога\diplom\obj\Debug\diplom.pdb
+D:\эвген\Научная конференция\Прога\diplom\obj\Debug\diplom.Form3.resources
+D:\Диплом_научная конференция\Прога\diplom\bin\Debug\diplom.exe.config
+D:\Диплом_научная конференция\Прога\diplom\bin\Debug\diplom.exe
+D:\Диплом_научная конференция\Прога\diplom\bin\Debug\diplom.pdb
+D:\Диплом_научная конференция\Прога\diplom\obj\Debug\diplom.csprojAssemblyReference.cache
+D:\Диплом_научная конференция\Прога\diplom\obj\Debug\diplom.Form1.resources
+D:\Диплом_научная конференция\Прога\diplom\obj\Debug\diplom.Form2.resources
+D:\Диплом_научная конференция\Прога\diplom\obj\Debug\diplom.Form3.resources
+D:\Диплом_научная конференция\Прога\diplom\obj\Debug\diplom.Form4.resources
+D:\Диплом_научная конференция\Прога\diplom\obj\Debug\diplom.Properties.Resources.resources
+D:\Диплом_научная конференция\Прога\diplom\obj\Debug\diplom.csproj.GenerateResource.cache
+D:\Диплом_научная конференция\Прога\diplom\obj\Debug\diplom.csproj.CoreCompileInputs.cache
+D:\Диплом_научная конференция\Прога\diplom\obj\Debug\diplom.exe
+D:\Диплом_научная конференция\Прога\diplom\obj\Debug\diplom.pdb
+D:\Диплом\Прога\diplom\bin\Debug\diplom.exe.config
+D:\Диплом\Прога\diplom\bin\Debug\diplom.exe
+D:\Диплом\Прога\diplom\bin\Debug\diplom.pdb
+D:\Диплом\Прога\diplom\obj\Debug\diplom.csprojAssemblyReference.cache
+D:\Диплом\Прога\diplom\obj\Debug\diplom.Form1.resources
+D:\Диплом\Прога\diplom\obj\Debug\diplom.Form2.resources
+D:\Диплом\Прога\diplom\obj\Debug\diplom.Form3.resources
+D:\Диплом\Прога\diplom\obj\Debug\diplom.Form4.resources
+D:\Диплом\Прога\diplom\obj\Debug\diplom.Properties.Resources.resources
+D:\Диплом\Прога\diplom\obj\Debug\diplom.csproj.GenerateResource.cache
+D:\Диплом\Прога\diplom\obj\Debug\diplom.csproj.CoreCompileInputs.cache
+D:\Диплом\Прога\diplom\obj\Debug\diplom.exe
+D:\Диплом\Прога\diplom\obj\Debug\diplom.pdb
+D:\Диплом\Прога\diplom\obj\Debug\diplom.Form5.resources
+D:\эвген\диплом\diplom\bin\Debug\diplom.exe.config
+D:\эвген\диплом\diplom\bin\Debug\diplom.exe
+D:\эвген\диплом\diplom\bin\Debug\diplom.pdb
+D:\эвген\диплом\diplom\obj\Debug\diplom.csprojAssemblyReference.cache
+D:\эвген\диплом\diplom\obj\Debug\diplom.Form1.resources
+D:\эвген\диплом\diplom\obj\Debug\diplom.Form2.resources
+D:\эвген\диплом\diplom\obj\Debug\diplom.Form3.resources
+D:\эвген\диплом\diplom\obj\Debug\diplom.Form4.resources
+D:\эвген\диплом\diplom\obj\Debug\diplom.Form5.resources
+D:\эвген\диплом\diplom\obj\Debug\diplom.Properties.Resources.resources
+D:\эвген\диплом\diplom\obj\Debug\diplom.csproj.GenerateResource.cache
+D:\эвген\диплом\diplom\obj\Debug\diplom.csproj.CoreCompileInputs.cache
+D:\эвген\диплом\diplom\obj\Debug\diplom.exe
+D:\эвген\диплом\diplom\obj\Debug\diplom.pdb
